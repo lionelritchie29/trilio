@@ -224,4 +224,12 @@ body {
   color: var(--color-grey-light-4);
 }
 
+.gallery {
+  display: flex;
+}
+.gallery__photo {
+  width: 100%;
+  display: block;
+}
+
 /*# sourceMappingURL=style.css.map */
